@@ -13,4 +13,4 @@ The code then reduces the number of unique values in the 'location' column. The 
 ## Outlier Removal:
 The code removes the outliers by using business logic. The outlier is considered to be any property with a 'total_sqft' to 'bhk' ratio less than 300 square feet per bedroom. This is considered unusual, and such properties are removed.
 
-Overall, the data cleaning process ensures that the data is free of missing values, range values, and outliers. The feature engineering step creates new features that can help in further analysis.
+- `Overall`, the data cleaning process ensures that the data is free of missing values, range values, and outliers. The feature engineering step creates new features that can help in further analysis.
