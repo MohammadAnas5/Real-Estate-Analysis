@@ -1,6 +1,6 @@
 # Real-Estate-Analysis
 
-- The following code is a data cleaning report for the "Bengaluru_House_Data.csv" file. The data cleaning process involves several steps such as data preprocessing, feature engineering, and outlier removal.
+- The following code is a data cleaning report for the "Bengaluru_House_Data.csv" file.
 
 ## Data Preprocessing:
 The first step in the data cleaning process is to drop the irrelevant columns such as 'area_type', 'availability', 'society', and 'balcony'.
